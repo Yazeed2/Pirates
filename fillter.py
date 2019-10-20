@@ -15,7 +15,7 @@ while line != '':
 
     line = line.replace(') | [', '", \n gameName: "', 1)
     line = line.replace('](', '", \n gameURL: "', 1)
-    line = line.replace(') |', '", \n id:"'+ number + '", \n image: "../Images/' + number +'.png"\n},', 1)
+    line = line.replace(') |', '", \n id:"'+ number + '", \n image: "./../Images/' + number +'.png"\n},', 1)
 
 
     num = num + 1

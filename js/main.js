@@ -5,7 +5,7 @@ let data = [
         gameName: "Horcrux Cave", 
         gameURL: "https://majdalsharif.github.io/horcrux_cave//", 
         id:"6", 
-        image: "../Images/6.png"
+        image: "./Images/6.png"
        }, 
           { 
         name:"Yazeed AlJuhani", 
@@ -13,7 +13,7 @@ let data = [
         gameName: "Broken Machine", 
         gameURL: "https://yazeed2.github.io/Game/index.html", 
         id:"24", 
-        image: "../Images/24.png"
+        image: "./Images/24.png"
        },
        { 
         name:"Raghad Allhyani", 
@@ -21,7 +21,7 @@ let data = [
         gameName: "Follow The Path", 
         gameURL: "https://1raghad1.github.io/FollowThePath/", 
         id:"1", 
-        image: "../Images/1.png"
+        image: "./Images/1.png"
        },
         { 
         name:"Ali M Hamidaddin", 
@@ -29,7 +29,7 @@ let data = [
         gameName: "Concentration Game", 
         gameURL: "https://ali-hd.github.io/Project-1-Concentration_game/", 
         id:"2", 
-        image: "../Images/2.png"
+        image: "./Images/2.png"
        },
         { 
         name:"Fahad Alqurashi", 
@@ -37,7 +37,7 @@ let data = [
         gameName: "Speed Math Game", 
         gameURL: "https://fah11ad.github.io/Project-1---Speed-Math-Game/", 
         id:"3", 
-        image: "../Images/3.png"
+        image: "./Images/3.png"
        },
         { 
         name:"Nouf Almazrou", 
@@ -45,7 +45,7 @@ let data = [
         gameName: "TicTacToe", 
         gameURL: "https://noufalmazrou.github.io/game/", 
         id:"4", 
-        image: "../Images/4.png"
+        image: "./Images/4.png"
        },
         { 
         name:"Abdulmajed Dhelaimi", 
@@ -53,7 +53,7 @@ let data = [
         gameName: "Memory & TicTacToe", 
         gameURL: "https://adhelaimi.github.io/project1/", 
         id:"5", 
-        image: "../Images/5.png"
+        image: "./Images/5.png"
        }, 
         
         { 
@@ -62,7 +62,7 @@ let data = [
         gameName: "2048", 
         gameURL: "https://midhatn.github.io/GA-2048/", 
         id:"7", 
-        image: "../Images/7.png"
+        image: "./Images/7.png"
        },
         { 
         name:"Abdullah Alsharif", 
@@ -70,7 +70,7 @@ let data = [
         gameName: "TTT", 
         gameURL: "https://aalsharif93.github.io/TTTGame-SEI-/", 
         id:"8", 
-        image: "../Images/8.png"
+        image: "./Images/8.png"
        },
         { 
         name:"Diala Alghamdi ", 
@@ -78,7 +78,7 @@ let data = [
         gameName: "Memory Game", 
         gameURL: "https://dialaj.github.io/game/", 
         id:"9", 
-        image: "../Images/9.png"
+        image: "./Images/9.png"
        },
         { 
         name:"Anas Shar", 
@@ -86,7 +86,7 @@ let data = [
         gameName: "Puzzle", 
         gameURL: "https://anas10895.github.io/Puzzle/", 
         id:"10", 
-        image: "../Images/10.png"
+        image: "./Images/10.png"
        },
         { 
         name:"Suhaib Binhamad", 
@@ -94,7 +94,7 @@ let data = [
         gameName: "Nonogram puzzle", 
         gameURL: "https://doaaxv.github.io/nonogram-project/", 
         id:"11", 
-        image: "../Images/11.png"
+        image: "./Images/11.png"
        },
         { 
         name:"Ahlam Fallatah", 
@@ -102,7 +102,7 @@ let data = [
         gameName: "Puzzle", 
         gameURL: "https://ahlamf.github.io/SEI-PROJECT-01/", 
         id:"12", 
-        image: "../Images/12.png"
+        image: "./Images/12.png"
        },
         { 
         name:"Sara Alharbi", 
@@ -110,7 +110,7 @@ let data = [
         gameName: "Word Match", 
         gameURL: "https://saraa96.github.io/word_match_game/", 
         id:"13", 
-        image: "../Images/13.png"
+        image: "./Images/13.png"
        },
         { 
         name:"Hamed Alsoubhi", 
@@ -118,7 +118,7 @@ let data = [
         gameName: "Guess Drawing", 
         gameURL: "https://bosheca.github.io/GuessDrawing/", 
         id:"14", 
-        image: "../Images/14.png"
+        image: "./Images/14.png"
        },
         { 
         name:"Aisha AlMotairi", 
@@ -126,7 +126,7 @@ let data = [
         gameName: "TTT", 
         gameURL: "https://aishamu.github.io/TecTacToe", 
         id:"15", 
-        image: "../Images/15.png"
+        image: "./Images/15.png"
        },
         { 
         name:"Israa Shuri", 
@@ -134,7 +134,7 @@ let data = [
         gameName: "Nightmare", 
         gameURL: "https://tsubaki92.github.io/Nightmare/", 
         id:"16", 
-        image: "../Images/16.png"
+        image: "./Images/16.png"
        },
         { 
         name:"Doaa Alhajjaji", 
@@ -142,7 +142,7 @@ let data = [
         gameName: "Nonogram Puzzle", 
         gameURL: "https://doaaxv.github.io/nonogram-project/", 
         id:"17", 
-        image: "../Images/17.png"
+        image: "./Images/17.png"
        },
         { 
         name:"Nujud Alabdali", 
@@ -150,7 +150,7 @@ let data = [
         gameName: "X-O-X", 
         gameURL: "https://nujud-aa.github.io/game_sei/", 
         id:"18", 
-        image: "../Images/18.png"
+        image: "./Images/18.png"
        },
         { 
         name:"Ibtissam Alharbi", 
@@ -158,7 +158,7 @@ let data = [
         gameName: "Constellation Puzzle", 
         gameURL: "https://ibtis0001.github.io/project_puzzle1/", 
         id:"19", 
-        image: "../Images/19.png"
+        image: "./Images/19.png"
        },
         { 
         name:"Mohammed Salah", 
@@ -166,7 +166,7 @@ let data = [
         gameName: "Triple Triad", 
         gameURL: "https://msalah73.github.io/TripleTriad/", 
         id:"20", 
-        image: "../Images/20.png"
+        image: "./Images/20.png"
        },
         { 
         name:"Nada Omar Alsairy", 
@@ -174,7 +174,7 @@ let data = [
         gameName: "TTT", 
         gameURL: "https://nada111.github.io/TicTacToe/", 
         id:"21", 
-        image: "../Images/21.png"
+        image: "./Images/21.png"
        },
         { 
         name:"Ashjan Aziz", 
@@ -182,7 +182,7 @@ let data = [
         gameName: "TTT", 
         gameURL: "https://iashjan.github.io/tic-tac-toe/", 
         id:"22", 
-        image: "../Images/22.png"
+        image: "./Images/22.png"
        },
         { 
         name:"Hisham Bin Seddeq", 
@@ -190,7 +190,7 @@ let data = [
         gameName: "Dixler", 
         gameURL: "https://hishambs.github.io/Dixler", 
         id:"23", 
-        image: "../Images/23.png"
+        image: "./Images/23.png"
        },
     
         { 
@@ -199,7 +199,7 @@ let data = [
         gameName: "Music Challenge", 
         gameURL: "https://tareqfahad.github.io/Music-Challenge-", 
         id:"25", 
-        image: "../Images/25.png"
+        image: "./Images/25.png"
        },
         { 
         name:"Abeer Ahamd", 
@@ -207,7 +207,7 @@ let data = [
         gameName: "404", 
         gameURL: "https://github.io/", 
         id:"26", 
-        image: "../Images/26.png"
+        image: "./Images/26.png"
        },
         { 
         name:"Wejdan Alghamdi", 
@@ -215,7 +215,7 @@ let data = [
         gameName: "TTT 4x4", 
         gameURL: "https://was7gh.github.io/game-sei/", 
         id:"27", 
-        image: "../Images/27.png"
+        image: "./Images/27.png"
        },
         { 
         name:"Shahad Bagarish", 
@@ -223,7 +223,7 @@ let data = [
         gameName: "Sudoku", 
         gameURL: "https://shahadbagarish.github.io/Sudoku-Game/#", 
         id:"28", 
-        image: "../Images/28.png"
+        image: "./Images/28.png"
        },
         { 
         name:"Amal Alnajjar", 
@@ -231,7 +231,7 @@ let data = [
         gameName: "TTT", 
         gameURL: "https://amal-nj.github.io/TicTacToe/#", 
         id:"29", 
-        image: "../Images/29.png"
+        image: "./Images/29.png"
        },
         { 
         name:"Abdulgadir Dghustani", 
@@ -239,7 +239,7 @@ let data = [
         gameName: "TTT", 
         gameURL: "https://dghistani.github.io/project1/", 
         id:"30", 
-        image: "../Images/30.png"
+        image: "./Images/30.png"
        },
         { 
         name:"Nouf Almazrou", 
@@ -247,7 +247,7 @@ let data = [
         gameName: "TTT", 
         gameURL: "https://noufalmazrou.github.io/game/", 
         id:"31", 
-        image: "../Images/31.png"
+        image: "./Images/31.png"
        },
         { 
         name:"Doaa Adel Al-Alawi", 
@@ -255,7 +255,7 @@ let data = [
         gameName: "Dots and Box", 
         gameURL: "https://doaaalalawi.github.io/dots-and-box-project-1/", 
         id:"32", 
-        image: "../Images/32.png"
+        image: "./Images/32.png"
        }
 ]
 
