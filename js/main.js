@@ -91,8 +91,8 @@ let data = [
         { 
         name:"Suhaib Binhamad", 
        URL :"https://github.com/", 
-        gameName: "Nonogram puzzle", 
-        gameURL: "https://doaaxv.github.io/nonogram-project/", 
+        gameName: "Simon Game", 
+        gameURL: "https://sbinhimd.github.io/simon/", 
         id:"11", 
         image: "./Images/11.png"
        },

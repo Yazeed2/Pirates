@@ -83,9 +83,9 @@ URL :"https://github.com/",
 },
  { 
  name:"Suhaib Binhamad", 
-URL :"https://github.com/", 
- gameName: "Nonogram puzzle", 
- gameURL: "https://doaaxv.github.io/nonogram-project/", 
+URL :"https://github.com/sbinhimd/", 
+ gameName: "Simon Game", 
+ gameURL: "https://sbinhimd.github.io/simon/", 
  id:"11", 
  image: "../Images/11.png"
 },
