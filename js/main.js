@@ -203,9 +203,9 @@ let data = [
        },
         { 
         name:"Abeer Ahamd", 
-       URL :"https://github.com/", 
-        gameName: "404", 
-        gameURL: "https://github.io/", 
+       URL :"https://github.com/TheAb23/Halloween1", 
+        gameName: "Halloween", 
+        gameURL: "https://theab23.github.io/Halloween1/game.html", 
         id:"26", 
         image: "./Images/26.png"
        },
